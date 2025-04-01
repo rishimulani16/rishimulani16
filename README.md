@@ -1,20 +1,72 @@
-<h1 align="center">Hi 👋, I'm Rishi Mulani</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+# 👨‍💻 Machine Learning | Artificial Intelligence | Deep Learning
 
-- 👀 I’m interested in **Machine learning,Deep learning, Python as well as AI & ML.**
+Welcome to my GitHub profile! I'm a passionate **Machine Learning** Engineer with a strong base in **Python Developer**. I love solving real-world problems with code, automating tasks, and creating intelligent systems that learn from data.
 
-- 🌱 I’m currently learning **programming languages, ML related projects, fundamentals of deep learning.**
+---
 
-- 👯 I’m looking to collaborate on **Machine Learning,Deep learning,AI as well as Research.**
+## 🌱 **About Me**
 
-- 💬 Ask me about **ML**
+- 🔭 I’m currently working on **Machine Learning projects**, **data analysis**, and **AI-based solutions**.
+- 🌱 I’m learning **Deep Learning**, **Natural Language Processing (NLP)**, and advanced **Data Science** techniques.
+- 👯 I’m looking to collaborate on exciting **AI & ML** projects and help automate complex tasks.
+- 🧑‍💻 I’m open to working on **open-source projects** and contributing to communities.
 
-- 📫 How to reach me **rishimulani92@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishi-mulani-25a844301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishi-mulani-25a844301" height="30" width="40" /></a>
-</p>
+## 🚀 **Technologies & Tools**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Languages**: Python, SQL
+- **Libraries/Frameworks**:
+  - Machine Learning: `scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`
+  - Data Science: `pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`
+  - Web Development: `Flask`
+  - Automation: `BeautifulSoup`
+  - Version Control: `Git`, `GitHub`
+- **Databases**: MySQL, MongoDB
+- **Cloud**: AWS
+
+---
+
+## 📈 **Projects**
+
+Here are a few of my key projects that showcase my skills and knowledge:
+
+1. **[Project 1 - Machine Learning Model for Predictive Analysis](https://github.com/yourusername/project1)**  
+   A machine learning project where I used `scikit-learn` to build a predictive model to forecast data trends.
+
+2. **[Project 2 - Image Classification using Convolutional Neural Networks](https://github.com/yourusername/project2)**  
+   Leveraged `TensorFlow` and `Keras` to build an image classifier that classifies images into predefined categories.
+
+3. **[Project 3 - Web Scraping Automation Tool](https://github.com/yourusername/project3)**  
+   A Python-based automation tool that scrapes data from websites using `BeautifulSoup` and stores the information in a structured format.
+
+4. **[Project 4 - Data Analysis on Real-world Datasets](https://github.com/yourusername/project4)**  
+   Performed exploratory data analysis (EDA) on various public datasets, including cleaning, visualizing, and interpreting the data using `pandas` and `Matplotlib`.
+
+---
+
+## 📫 **How to Reach Me**
+
+- 📝 Feel free to open an issue or a pull request on any of my repositories!
+- 📧 Email me at: **rishimulani92@gmail.com**
+- 💬 See my LinkedIn Profile: **[LinkedIn](https://www.linkedin.com/in/rishi-mulani-25a844301/)**
+- 🌐 Visit my personal website/portfolio: **[YourPortfolioLink.com](#)**
+
+---
+
+## 💡 **Fun Fact**
+
+I’m always learning and trying new things, and I believe **continuous learning** is the key to growing as a developer.
+
+---
+
+## 📚 **Education**
+
+- **B.Tech in Information & Technology** - [CHARUSAT] - Graduated [2027]
+- Additional courses on Machine Learning, Data Science, and Python Development from platforms like **Coursera**, **edX**, and **Udacity**.
+
+---
+
+## 👨‍🏫 **Let's Connect and Collaborate!**
+
+If you’re passionate about Python, Machine Learning, Data Science, or any related fields, feel free to reach out! I’m always open to collaborating and learning from others.
